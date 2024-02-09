@@ -18,15 +18,16 @@ module.exports = {
         'yellow-button': '#FFE500',
         'custom-grey' : '#D9D9D9',
         'gray-text': '#404040',
+        'custom-white': '#FAFAFA',
       },
       fontFamily: {
         // Define custom font families
+        opensans:['Open Sans','sans-serif'],
         raleway: ['Raleway', 'sans-serif'],
         customFont: ['Roboto', 'sans-serif'],
         inter: [ 'Inter', 'sans-serif'],
-        headingFont: ['Big Shoulders Text', 'sans-serif' ], // Corrected definition
+        headingFont: ['Big Shoulders Text', 'sans-serif' ], 
       },
-      // Add more customizations as needed
     },
   },
   plugins: [],
